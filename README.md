@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zahid Jahangir
+- 👀 I’m interested in machine learning and deep learning in field of GIS and Remote Sensig.
+- 🌱 I’m currently learning Image Fusion techniques using machine learning and deep learning, Time series analysis using Google Earth Engine, Big data analysis using GIS enviroments.
+- 💞️ I’m looking to collaborate on GIS and Remote Sesning related projects.
+- 📫 z.jahangir93@gmail.com
